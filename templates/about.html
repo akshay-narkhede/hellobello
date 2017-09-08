@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}About | {{block.super}}{% endblock title %}
+{% block content %}
+
+<h2>{{block.super}}</h2>
+<h1>HelloBello</h1>
+<h1>This is about page</h1>
+{% include 'snippets/sidebar.html' %}
+
+{% endblock content %}

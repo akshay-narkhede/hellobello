@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %}Welcome | {{block.super}}{% endblock title %}
+{% block content %}
+
+<h2>{{block.super}}</h2>
+<h1>HTML</h1>
+<h1>This is Home page</h1>
+<p>Hello Bello {{my_name}}.</p>
+<p>Value is {{bool_item}}.</p>
+{% if bool_item %}
+<p>Random Number is  {{num}}.</p>
+{% endif %}
+
+{% endblock content %}
