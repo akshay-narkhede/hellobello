@@ -1,1 +1,1 @@
-web: gunicorn hellobelloproject.wsgi --log-file -
+web: gunicorn hellobello.wsgi
