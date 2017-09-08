@@ -25,7 +25,7 @@ SECRET_KEY = '(pioe-=ersxl-^xa&-1s4t97kz0us6iq-a$&g%aq5vlm0luv%1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [hello-bello.herokuapp.com]
+ALLOWED_HOSTS = ['hello-bello.herokuapp.com','localhost']
 
 
 # Application definition
