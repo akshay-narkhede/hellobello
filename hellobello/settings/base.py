@@ -25,7 +25,7 @@ SECRET_KEY = '(pioe-=ersxl-^xa&-1s4t97kz0us6iq-a$&g%aq5vlm0luv%1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [hello-bello.herokuapp.com]
 
 
 # Application definition
@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'restaurants',
 ]
 
 MIDDLEWARE = [
