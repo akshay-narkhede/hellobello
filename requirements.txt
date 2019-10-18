@@ -28,6 +28,6 @@ six==1.10.0
 social-auth-app-django==1.2.0
 social-auth-core==1.4.0
 sqlparse==0.2.3
-urllib3==1.21.1
+urllib3==1.24.2
 virtualenv==15.1.0
 whitenoise==3.3.0
