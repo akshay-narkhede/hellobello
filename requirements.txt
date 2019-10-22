@@ -14,7 +14,7 @@ idna==2.5
 oauthlib==2.0.2
 olefile==0.44
 pdb==0.1
-Pillow==4.2.1
+Pillow==6.2.0
 psycopg2==2.7.1
 PyJWT==1.5.0
 python-gnupg==0.4.0
