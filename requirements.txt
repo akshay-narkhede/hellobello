@@ -17,7 +17,7 @@ pdb==0.1
 Pillow==4.2.1
 psycopg2==2.7.1
 PyJWT==1.5.0
-python-gnupg==0.4.0
+python-gnupg==0.4.4
 python-social-auth==0.2.1
 python3-openid==3.1.0
 pytz==2017.2
