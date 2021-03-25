@@ -21,7 +21,7 @@ python-gnupg==0.4.0
 python-social-auth==0.2.1
 python3-openid==3.1.0
 pytz==2017.2
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.1
 requests-oauthlib==0.8.0
 six==1.10.0
